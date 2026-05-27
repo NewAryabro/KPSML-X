@@ -34,7 +34,7 @@ pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
-pymediainfo
+pymediainfo==7.0.1
 qbittorrent-api
 requests
 speedtest-cli
