@@ -34,7 +34,7 @@ pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
-pymediainfo==6.0.1
+pymediainfo==7.0.1
 qbittorrent-api
 requests
 speedtest-cli
@@ -45,4 +45,4 @@ uv
 uvloop==0.21.0
 xattr
 yt-dlp
-setuptools
+setuptools==68.2.2
